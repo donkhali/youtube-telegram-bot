@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/donkhali/youtube-telegram-bot.git
+git add .
+git commit -m "Versión inicial del bot YouTube → Telegram"
+git branch -M main
+git push -u origin main
